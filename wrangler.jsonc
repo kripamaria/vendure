@@ -1,0 +1,7 @@
+{
+  "name": "worker-name", // change to your worker name
+  "compatibility_date": "2025-09-04",
+  "assets": {
+    "directory": "./dist" // replace with your actual build folder
+  }
+}
